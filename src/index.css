@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Baloo+Bhaijaan+2:wght@400;500&family=IBM+Plex+Sans:wght@500&family=Rethink+Sans:wght@700&family=Roboto:ital,wght@0,100;0,300;0,400;1,100&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+*{
+  font-family: 'Rethink Sans', sans-serif;
+}
+
+::selection{
+  color: rgb(232, 145, 47);
+}
